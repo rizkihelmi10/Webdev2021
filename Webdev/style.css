@@ -1,0 +1,22 @@
+h1{
+    color :rgb(247, 244, 244)
+}
+h1{
+    font-family: arial;
+    font-size: 100px;
+    font-weight: normal;
+    background-color: rgb(223, 160, 97);
+    margin : 10px;
+    display : inline;
+    border : 5px solid rgb(17, 17, 17);
+    padding : 10px;
+}
+body{
+    background-color: rgb(167, 4, 4);
+    background-image:url(bg.jpg);
+    background-repeat : repeat-x;
+}
+p{
+    font-size:30px;
+    font-weight: bold;
+}
